@@ -19,4 +19,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://braidsbylatifah.com/sitemap.xml
+Sitemap: https://braids-by-latifah-website.netlify.app/sitemap.xml

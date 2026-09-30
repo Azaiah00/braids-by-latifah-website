@@ -8,7 +8,7 @@ Also known as: Congolese Hair Design by Latifah (Instagram and Facebook name).
 - Address: 101 Buford Rd, Suite 203-9, North Chesterfield, VA 23235 (Bon Air, south side of Richmond)
 - Phone / text: (804) 664-8199. Text to book; no Instagram or Facebook DMs, please.
 - Booking: https://booksy.com/en-us/1588457_braids-by-latifah_braids-locs_134575_richmond
-- Website: https://braidsbylatifah.com/
+- Website: https://braids-by-latifah-website.netlify.app/
 
 ## Hours
 - Monday to Saturday: 8:00 AM to 7:00 PM
@@ -107,10 +107,10 @@ Yes. Kids box braids (under 12) start at $150 and kids cornrows start at $60. Me
 Yes: loc retwists from $60, butterfly locs, soft dreads, Bobby faux locs and crochet braids from $100.
 
 ## Pages
-- Home: https://braidsbylatifah.com/
-- Styles and prices: https://braidsbylatifah.com/styles.html
-- Gallery: https://braidsbylatifah.com/gallery.html
-- Book: https://braidsbylatifah.com/book.html
+- Home: https://braids-by-latifah-website.netlify.app/
+- Styles and prices: https://braids-by-latifah-website.netlify.app/styles.html
+- Gallery: https://braids-by-latifah-website.netlify.app/gallery.html
+- Book: https://braids-by-latifah-website.netlify.app/book.html
 
 ## Social
 - Instagram: https://www.instagram.com/braidsbylatifah804/

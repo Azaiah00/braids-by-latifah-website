@@ -39,3 +39,7 @@ Everything below must be confirmed with Latifah before the site goes live.
 ## Proposed domain
 
 **braidsbylatifah.com**
+
+## Live preview domain (updated 28 Sep 2026)
+The site is live at https://braids-by-latifah-website.netlify.app/ and every canonical URL, Open Graph/Twitter tag, hreflang, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this exact address.
+When the owner's own domain (braidsbylatifah.com) is connected in Netlify, find-and-replace `braids-by-latifah-website.netlify.app` with `braidsbylatifah.com` across the .html/.xml/.txt/.toml/.webmanifest files, then redeploy.
